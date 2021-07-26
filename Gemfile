@@ -23,8 +23,11 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'hamlit'
-
 gem 'simple_form'
+gem 'annotate'
+gem 'rails-i18n'
+gem 'devise'
+gem 'cocoon'
 
 
 # Use Active Storage variant

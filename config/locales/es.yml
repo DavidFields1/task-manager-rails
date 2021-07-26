@@ -1,5 +1,5 @@
 ---
-en:
+es:
   activerecord:
     models:
       category:
@@ -23,7 +23,7 @@ en:
   listing_tags: Listing tags
   task:
     errors:
-      indalid_due_date: Indalid due date
+      indalid_due_date: Fecha de vencimiento inválida
   tasks:
     category: Categoria
     description: Descripción
@@ -40,4 +40,4 @@ en:
       listing_tasks: Listado de tareas
       name: Nombre
     name: Nombre
-    new_task: Nueva tarea
+    new_task: Nueva Tarea
