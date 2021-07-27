@@ -30,6 +30,7 @@ gem 'devise'
 gem 'cocoon'
 gem 'cancancan'
 gem 'mailcatcher'
+gem 'font-awesome-sass', '~> 5.12.0'
 
 
 # Use Active Storage variant
